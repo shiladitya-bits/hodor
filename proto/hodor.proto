@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package search;
+
+// The greeter service definition.
+service HodorService {
+    // search for houses
+    rpc talk (HodorRequest) returns (HodorResponse) {}
+}
+
+message HodorRequest{
+    string message = 1;
+}
+
+message HodorResponse{
+    string message = 1;
+}
