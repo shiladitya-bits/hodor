@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package search;
+package hodor;
 
 // The greeter service definition.
 service HodorService {
