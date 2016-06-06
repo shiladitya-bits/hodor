@@ -1,7 +1,9 @@
 # Hodor SDK
 
 This is the SDK for gRPC communication between client and server.
+
 Sample service: [link](https://github.com/shiladitya-bits/hodor-service) 
+
 Sample client: [link](https://github.com/shiladitya-bits/hodor-client)
 
 ## Installation
