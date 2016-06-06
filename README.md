@@ -1,7 +1,8 @@
 # Hodor SDK
 
-This is the SDK for gRPC communication between 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hodor`. To experiment with that code, run `bin/console` for an interactive prompt.
+This is the SDK for gRPC communication between client and server.
+Sample service: [link](https://github.com/shiladitya-bits/hodor-service) 
+Sample client: [link](https://github.com/shiladitya-bits/hodor-client)
 
 ## Installation
 
@@ -20,6 +21,7 @@ And then execute:
 TODO: Write usage instructions here
 
 ## Development
+Put your Ruby code in the file `lib/hodor`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
 
